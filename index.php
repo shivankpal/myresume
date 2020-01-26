@@ -938,7 +938,7 @@
                                     <div class="address">
                                       <span class="field" id="FIELD_STRT"></span><span class="spaced field"
                                         id="FIELD_CITY">Indore</span><span dependency="CITY+STAT">,
-                                      </span><span class="spaced field" id="FIELD_STAT">MADHYA PRADESH</span><span
+                                      </span><span class="spaced field" id="FIELD_STAT">Madhya Pradesh</span><span
                                         dependency="STAT+ZIPC">
                                       </span><span class="spaced field" id="FIELD_ZIPC">452001</span><br
                                         dependency="STRT|CITY|STAT|ZIPC">
