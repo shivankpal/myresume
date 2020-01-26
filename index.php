@@ -1050,10 +1050,10 @@
                                                 <td class="field twocol_1" id="FIELD_SKC1">
                                                   <ul>
                                                     <li>PHP</li>
-                                                    <li>HTML</li>
+                                                    <li>HTML/HTML5</li>
                                                     <li>CSS</li>
                                                     <li>BOOTSTRAP</li>
-                                                    <li>JAVASCRIPT</li>
+                                                    <li>JAVASCRIPT/ES6/ES7</li>
                                                     <li>JQUERY</li>
                                                     <li>AJAX</li>
                                                   </ul>
