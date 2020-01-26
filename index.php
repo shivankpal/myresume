@@ -935,7 +935,8 @@
                                 <div id="PARAGRAPH_CNTC_d2a43d54-197f-43c8-b35d-36ceaf419462"
                                   class="paragraph PARAGRAPH_CNTC firstparagraph ">
                                   <div class="clearfix doc-item">
-                                    <div class="address">
+                                    <div class="address"><H4 class=" field" id="FIELD_ZIPC">Full Stack Developer</h4>
+
                                       <span class="field" id="FIELD_STRT"></span><span class="spaced field"
                                         id="FIELD_CITY">Indore</span><span dependency="CITY+STAT">,
                                       </span><span class="spaced field" id="FIELD_STAT">Madhya Pradesh</span><span
