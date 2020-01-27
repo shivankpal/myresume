@@ -12,7 +12,7 @@
   <meta http-equiv="Cache-control" content="no-transform">
   <style>
     .page-finalize .preview-container {
-      font-size: 12px;
+      font-size: 14px;
       min-height: auto !important;
       margin-left: 0px !important;
     }
@@ -189,7 +189,7 @@
       display: inline-block;
       height: 14px;
       font-family: "Lucida Grande", "Segoe UI", "Tahoma", "Helvetica Neue", "Helvetica", sans-serif;
-      font-size: 12px;
+      font-size: 14px;
       font-weight: 600;
       color: #636363;
       text-decoration: none;
@@ -326,7 +326,7 @@
       display: inline-block;
       height: 14px;
       font-family: "Lucida Grande", "Segoe UI", "Tahoma", "Helvetica Neue", "Helvetica", sans-serif;
-      font-size: 12px;
+      font-size: 14px;
       font-weight: 600;
       color: #636363;
       text-decoration: none;
@@ -816,7 +816,7 @@
                         }
 
                         #document.skn-hrt2.fontsize {
-                          font-size: 12px
+                          font-size: 14px
                         }
 
                         #document.skn-hrt2.fontface {
@@ -876,7 +876,7 @@
                         }
 
                         #document.skn-hrt2 .address {
-                          font-size: 12px;
+                          font-size: 14px;
                           line-height: 17px;
                           margin-top: 8px
                         }
@@ -897,7 +897,7 @@
                         }
 
                         #document.skn-hrt2 .address2 {
-                          font-size: 12px;
+                          font-size: 14px;
                           line-height: 17px
                         }
                       </style>
