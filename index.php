@@ -110,7 +110,7 @@
 
 
   </script>
-  <title>Finalize Resume - My Perfect Resume</title>
+  <title>My Resume</title>
   <script>
 
     function addNewRelic(applicationId) {
@@ -994,7 +994,7 @@
                                       class="paragraph PARAGRAPH_SUMM firstparagraph ">
                                       <div class="clearfix doc-item">
                                         <div class="field singlecolumn" id="FIELD_FRFM">
-                                          <p>More than 7 years of professional experience in Software Development and major experience in managing & covering Web & Mobile technologies and mobile technology including <strong>PHP</strong>, <strong>HTML/CSS</strong>, <strong>Javascript</strong>, <strong>React Native</strong>, And dependent assets and frameworks including <strong>NodeJS</strong>, <strong>ReactJS</strong>, <strong>Jquery</strong>, <strong>Bootstrap</strong>, <strong>Codeignitor</strong>, <strong>Wordpress</strong> etc. Experimental and advanced experience with both <strong>MySQL</strong> and <strong>SQLite</strong>. Hands-on experience with<br> major third-party APIs, including most of Google Developer APIs, LinkedIn Developer APIs, Twitter Developer Api, and Facebook’s Graph APIs, Linux Shell Scripting, and most of the Amazon Web Services. Other areas of expertise include intelligent Data Scraping, Chatbots, Mail Server Setup, Python(nltk).</p>
+                                          <p>More than 7 years of professional experience in Software Development and major experience in managing & covering Web & Mobile technologies and mobile technology including <strong>PHP</strong>, <strong>HTML/CSS</strong>, <strong>Javascript</strong>, <strong>React Native</strong>, And dependent assets and frameworks including <strong>NodeJS</strong>, <strong>ReactJS</strong>, <strong>Jquery</strong>, <strong>Bootstrap</strong>, <strong>Codeignitor</strong>, <strong>Wordpress</strong> etc. Experimental and advanced experience with both <strong>MySQL</strong> and <strong>SQLite</strong>. Hands-on experience with major third-party APIs, including most of Google Developer APIs, LinkedIn Developer APIs, Twitter Developer Api, and Facebook’s Graph APIs, Linux Shell Scripting, and most of the Amazon Web Services. Other areas of expertise include intelligent Data Scraping, Chatbots, Mail Server Setup, Python(nltk).</p>
                                         </div>
                                       </div>
                                       <div class="doc-overlay para-overlay" style="left:-48px; right: -48px;"><span
