@@ -627,7 +627,7 @@
                           -moz-font-feature-settings: "liga"off
                         }
                         *{
-                          font-size: 13px !important;
+                          font-size: 14px !important;
                         }
                         #document.skn-hrt2 table {
                           border-collapse: collapse;
