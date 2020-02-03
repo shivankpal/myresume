@@ -1128,17 +1128,15 @@
                                                 PRADESH</span><br dependency="COMP|JCIT|JSTA">
                                             </span>
                                             <span class="jobline" id="FIELD_JDES">
-                                              <p>Nextel tracks all who interacts with your business offline and online
-                                                and make it easy to communicate and engage with them through targeted
-                                                facebook and Instagram ads, behaviour-driven email and SMS, web messages
+                                              <p>Nextel tracks all who interacts with your business offline and online and make it easy to communicate and engage with them via targeted Facebook and Instagram ads, Behaviour-driven Email and SMS, Web messages
                                               </p>
                                               <ul>
-                                                <li>Developed a user-centric crm that met all business requirements.</li>
-                                                <li>Build a robust application for android/iphone thorugh which we can run on all the operation of dashboard.</li>
-                                                <li>Build android app which will instantly track user call/recording and push them to server.</li>
+                                                <li>Developed a user-centric CRM that met all business requirements.</li>
+                                                <li>Build robust application for Android/Iphone thorugh which we can run on all the operation of dashboard.</li>
+                                                <li>Build Android app which will instantly track user call/recording and push them to server.</li>
                                                 <li>Created full fledge email server just like mailchimp.</li>
-                                                <li>Create a integration with some third party service provider for sending bulk sms and capturing data from ivr system.</li>
-                                                <li>Create a integration with facebook and google for running ads.</li>
+                                                <li>Created integration with some third party service provider for sending bulk sms and capturing data from ivr system.</li>
+                                                <li>Created integration with Facebook and Google for running ads.</li>
                                                 <li>Participated in projects in all stages of the product life cycle.</li>                                                  
                                                 <li>Bug fixing and problem solving.</li>
                                               </ul>
@@ -1180,17 +1178,10 @@
                                                 PRADESH</span><br dependency="COMP|JCIT|JSTA">
                                             </span>
                                             <span class="jobline" id="FIELD_JDES">
-                                              <p>ZiPi is one-stop-app with vision to integrate all apps like restaurant
-                                                search, shopping, home needs, one click taxi (ola/uber) booking without
-                                                switching apps, movie timings, daily news etc in one app so that user
-                                                dnt have to keep multiple apps. We are looking to replicate Wechat ( all
-                                                apps in one app model) of China in India. Currently ZiPi has 5 lac +
-                                                apps inside one app which help customers in daily ( in fact hourly )
-                                                needs. ZiPi got conceptualized in October 2015 and went live on 15th
-                                                January 2016. The app is available on Android and iOS store.</p>
+                                              <p>ZiPi is one-stop-app with vision to integrate all apps like restaurant search, shopping, home needs, one click taxi (ola/uber) booking without switching apps, movie timings, daily news etc in one app so that user don't have to keep multiple apps. We looked after replicating Wechat ( all apps in one app model) of China in India.</p>
                                                 <ul>
                                                   <li>Implementing a mobile-first approach to existing website.</li>
-                                                  <li>Developed rest api for both android and iphone application.</li>
+                                                  <li>Developed Rest API for both Android and Iphone applications.</li>
                                                   <li>Build dashboard for updating & maintaining data of app & website.</li>
                                                   <li>Participated in projects in all stages of the product life cycle.</li>                                                  
                                                   <li>Bug fixing and problem solving.</li>
@@ -1239,10 +1230,10 @@
                                                 professionals, and more. Get everything done our smart search and chat
                                                 based assistance.</p>
                                                 <ul>
-                                                  <li>Design & Developed a program which will regulary scrape data from multiple website related to restaurants, Hotels, Saloons, Movies etc.</li>
-                                                  <li>Developed a backend where we can analyze raw data and extract usefull data.</li>
-                                                  <li>Build a system where we can analyze the result of given url and generate recommendation.</li>
-                                                  <li>Build a program which will generate a sitemap of website and submit to google twice a week.</li>
+                                                  <li>Design & Developed program which will regulary scrape data from multiple website related to restaurants, Hotels, Salons, Movies etc.</li>
+                                                  <li>Developed backend where we can analyze raw data and extract usefull data.</li>
+                                                  <li>Build system where we can analyze the result of given url and generate recommendation.</li>
+                                                  <li>Build program which will generate a sitemap of website and submit to Google twice a week.</li>
                                                 </ul>
                                             </span>
                                           </div>
