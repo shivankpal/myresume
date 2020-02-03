@@ -616,7 +616,8 @@
                           border: 0;
                           outline: 0;
                           vertical-align: baseline;
-                          background: transparent
+                          background: transparent;
+                          font-size: 14px !important;
                         }
 
                         body {
